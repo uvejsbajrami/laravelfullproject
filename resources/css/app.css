@@ -5,3 +5,8 @@
 [x-cloak] {
     display: none;
 }
+.bg-image {
+    background-image: url("views/backgroundimage.jpg");
+    background-size: cover;
+    background-position: center;
+}
